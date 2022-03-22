@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/T.M.Craft-Web/static/css/main.e6c13ad2.css",
+    "main.js": "/T.M.Craft-Web/static/js/main.adcf93af.js",
+    "static/js/787.0e184b4d.chunk.js": "/T.M.Craft-Web/static/js/787.0e184b4d.chunk.js",
+    "index.html": "/T.M.Craft-Web/index.html",
+    "main.e6c13ad2.css.map": "/T.M.Craft-Web/static/css/main.e6c13ad2.css.map",
+    "main.adcf93af.js.map": "/T.M.Craft-Web/static/js/main.adcf93af.js.map",
+    "787.0e184b4d.chunk.js.map": "/T.M.Craft-Web/static/js/787.0e184b4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.adcf93af.js"
+  ]
+}
